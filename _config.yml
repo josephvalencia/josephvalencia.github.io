@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joseph Valencia"
-  avatar           : "crater_lake_headshot.png"
+  avatar           : "crater_lake.jpeg"
   bio              : "PhD student in computer science @ Oregon State EECS \n Building interpretable machine learning tools for RNA biology"
   location         : "Corvallis, OR"
   employer         :
